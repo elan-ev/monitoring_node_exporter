@@ -1,6 +1,6 @@
 galaxy_info:
   role_name: monitoring_node_exporter
-  namespace: tibroc
+  namespace: elan
   author: Timo Nogueira Brockmeyer
   description: install the node_exporter
   company: virtUOS
