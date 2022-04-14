@@ -9,6 +9,7 @@
   user:
     name: node_exporter
     state: present
+    create_home: false
 
 - name: create node_exporter directory
   file:
